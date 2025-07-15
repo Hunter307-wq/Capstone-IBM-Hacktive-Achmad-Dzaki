@@ -21,7 +21,7 @@ Dataset berisi 10 ulasan produk Shopee secara acak, terdiri dari:
 - `review`: teks ulasan dari pelanggan
 - `rating`: nilai kepuasan (1–5)
 - `sentiment`: label hasil klasifikasi sentimen (otomatis)
-
+🔗 [Download Dataset CSV](https://drive.google.com/drive/folders/1KohGu8n0dLXuFZkB8R_AZ9bERyeUT683?usp=drive_link)
 ---
 
 ## 🧠 Analisis yang Dilakukan
